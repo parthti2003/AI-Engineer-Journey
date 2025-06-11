@@ -32,13 +32,13 @@ This repo is my vault — it contains everything I’m doing to build mastery fr
 AI-Engineer-Journey/
 ├── progress-log.md        # Daily logs + weekly reflections
 ├── python-core/           # Notes, concepts, mini-projects
-├── dsa-leetcode/          # Topic-wise problem solving
-├── ml/                    # Models, mini-projects, experiments
-├── dl/                    # Deep learning practice & builds
-├── nlp/                   # Traditional NLP + Transformer models
-├── genai/                 # Prompting, LLMs, RAG, agents
-├── projects/              # Production-grade, portfolio-level builds
-├── assets/                # Images & video demos for READMEs
+├── dsa-leetcode/          # Topic-wise problem solving              ← coming soon
+├── ml/                    # Models, mini-projects, experiments      ← coming soon
+├── dl/                    # Deep learning practice & builds         ← coming soon
+├── nlp/                   # Traditional NLP + Transformer models    ← coming soon
+├── genai/                 # Prompting, LLMs, RAG, agents            ← coming soon
+├── projects/              # Production-grade, portfolio-level builds    ← will expand later
+├── assets/                # Images & video demos for READMEs            ← will expand later
 └── README.md              # You’re reading it
 ```
 
